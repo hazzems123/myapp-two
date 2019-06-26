@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center"><strong>Boilerplate for a Basic GraphQL Server</strong></h1>
 
 <br />
@@ -69,3 +70,6 @@ yarn start
 The GraphQL boilerplates are maintained by the GraphQL community, with official support from the [Apollo](https://www.apollographql.com/) & [Prisma](https://www.prisma.io) teams.
 
 Your feedback is **very helpful**, please share your opinion and thoughts! If you have any questions or want to contribute yourself, join the `#graphql-boilerplate` channel on our [Slack](https://slack.prisma.io/).
+=======
+# myapp-two
+>>>>>>> 372857efd1af8855b541b7636e85831ea04f1f5e
